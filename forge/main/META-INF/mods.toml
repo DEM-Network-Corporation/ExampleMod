@@ -4,6 +4,6 @@ loaderVersion = '[40,)'
 license = 'MIT'
 showAsResourcePack = false
 mods = [
-	{ modId = 'recycling', version = '1.0.0', displayName = 'Example Mod', description = 'ExampleMod', logoFile = 'icon.png', updateJSONURL = 'Enter Your UpdateJSON Url', credits = 'Made With A Template By DEMnetwork', authors = 'Your Name here', displayURL = 'Enter A Valid Url' },
+	{ modId = 'examplemod', version = '1.0.0', displayName = 'Example Mod', description = 'ExampleMod', logoFile = 'icon.png', updateJSONURL = 'Enter Your UpdateJSON Url', credits = 'Made With A Template By DEMnetwork', authors = 'Your Name here', displayURL = 'Enter A Valid Url' },
 ]
 issueTrackerURL = 'Enter Your Inssue Tracker URL here'
